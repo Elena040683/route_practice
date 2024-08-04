@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/github.io/route_practice/static/css/main.c21b55fe.css",
-    "main.js": "/github.io/route_practice/static/js/main.6188ad31.js",
-    "index.html": "/github.io/route_practice/index.html",
-    "main.c21b55fe.css.map": "/github.io/route_practice/static/css/main.c21b55fe.css.map",
-    "main.6188ad31.js.map": "/github.io/route_practice/static/js/main.6188ad31.js.map"
+    "main.css": "/github.com/route_practice/static/css/main.c21b55fe.css",
+    "main.js": "/github.com/route_practice/static/js/main.6188ad31.js",
+    "index.html": "/github.com/route_practice/index.html",
+    "main.c21b55fe.css.map": "/github.com/route_practice/static/css/main.c21b55fe.css.map",
+    "main.6188ad31.js.map": "/github.com/route_practice/static/js/main.6188ad31.js.map"
   },
   "entrypoints": [
     "static/css/main.c21b55fe.css",
